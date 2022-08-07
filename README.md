@@ -1,4 +1,4 @@
-# Python Package Best Practices - 2020 MolSSI Webinar Series
+# Code Collaboration Website
 
 This repo contains files for a periodic table website.
 
