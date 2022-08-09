@@ -1,6 +1,6 @@
 ---
 layout: page
-title: sodium
+title: tungsten
 ---
 
 Tungsten is known as one of the toughest things found in nature. It was used in light bulbs in the 20th century.
